@@ -1,0 +1,1 @@
+(function(d){d['nb']=Object.assign(d['nb']||{},{a:"Maximize",b:"Fet",c:"Kursiv",d:"Understreking",e:"Rikteksteditor",f:"Rikteksteditor, %0",g:"Angre",h:"Gjør om"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

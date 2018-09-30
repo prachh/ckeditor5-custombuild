@@ -1,0 +1,1 @@
+(function(d){d['de-ch']=Object.assign(d['de-ch']||{},{a:"Maximize",b:"Bold",c:"Italic",d:"Underline",e:"Rich Text Editor",f:"Rich Text Editor, %0",g:"Rückgängig",h:"Wiederherstellen"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

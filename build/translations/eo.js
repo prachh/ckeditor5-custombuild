@@ -1,0 +1,1 @@
+(function(d){d['eo']=Object.assign(d['eo']||{},{a:"Maximize",b:"grasa",c:"kursiva",d:"Underline",e:"Redaktilo de Riĉa Teksto",f:"Redaktilo de Riĉa Teksto, %0",g:"Malfari",h:"Refari"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

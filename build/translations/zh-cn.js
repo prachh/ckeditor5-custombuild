@@ -1,0 +1,1 @@
+(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"Maximize",b:"加粗",c:"倾斜",d:"下划线",e:"富文本编辑器",f:"富文本编辑器， %0",g:"撤销",h:"重做"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
