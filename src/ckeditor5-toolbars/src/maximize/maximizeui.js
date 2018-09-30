@@ -27,7 +27,7 @@ export default class MaximizeUI extends Plugin {
 
             // Callback executed once the maximize is clicked.
             view.on( 'execute', () => {
-               console.log(editor.sourceElement);
+               console.log(editor);
             } );
 
 			return view;
