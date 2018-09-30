@@ -1,1 +1,1 @@
-(function(d){d['uk']=Object.assign(d['uk']||{},{a:"Maximize",b:"Жирний",c:"Курсив",d:"Підкреслений",e:"Розширений текстовий редактор",f:"Розширений текстовий редактор, %0",g:"Відміна",h:"Повтор"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['uk']=Object.assign(d['uk']||{},{a:"Жирний",b:"Курсив",c:"Підкреслений",d:"Відміна",e:"Повтор",f:"Розширений текстовий редактор",g:"Розширений текстовий редактор, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

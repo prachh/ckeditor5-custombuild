@@ -1,1 +1,1 @@
-(function(d){d['ug']=Object.assign(d['ug']||{},{a:"Maximize",b:"توم",c:"يانتۇ",d:"ئاستى سىزىق",e:"تېكىست تەھرىرلىگۈچ",f:"تېكىست تەھرىرلىگۈچ، 0%",g:"قالدۇرۇش",h:"قايتا قىلىش"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['ug']=Object.assign(d['ug']||{},{a:"توم",b:"يانتۇ",c:"ئاستى سىزىق",d:"قالدۇرۇش",e:"قايتا قىلىش",f:"تېكىست تەھرىرلىگۈچ",g:"تېكىست تەھرىرلىگۈچ، 0%"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

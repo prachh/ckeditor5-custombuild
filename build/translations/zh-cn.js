@@ -1,1 +1,1 @@
-(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"Maximize",b:"加粗",c:"倾斜",d:"下划线",e:"富文本编辑器",f:"富文本编辑器， %0",g:"撤销",h:"重做"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['zh-cn']=Object.assign(d['zh-cn']||{},{a:"加粗",b:"倾斜",c:"下划线",d:"撤销",e:"重做",f:"富文本编辑器",g:"富文本编辑器， %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
