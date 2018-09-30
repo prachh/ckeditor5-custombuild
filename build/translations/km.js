@@ -1,1 +1,1 @@
-(function(d){d['km']=Object.assign(d['km']||{},{a:"ដិត",b:"គូស​បន្ទាត់​ក្រោម",c:"ទ្រេត",d:"លែង​ធ្វើ​វិញ",e:"ធ្វើ​វិញ",f:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប",g:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['km']=Object.assign(d['km']||{},{a:"ដិត",b:"ទ្រេត",c:"គូស​បន្ទាត់​ក្រោម",d:"លែង​ធ្វើ​វិញ",e:"ធ្វើ​វិញ",f:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប",g:"កម្មវិធី​កែសម្រួល​អត្ថបទ​សម្បូរបែប, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

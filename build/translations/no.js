@@ -1,1 +1,1 @@
-(function(d){d['no']=Object.assign(d['no']||{},{a:"Fet",b:"Underline",c:"Kursiv",d:"Undo",e:"Redo",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['no']=Object.assign(d['no']||{},{a:"Fet",b:"Kursiv",c:"Underline",d:"Undo",e:"Redo",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

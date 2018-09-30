@@ -1,1 +1,1 @@
-(function(d){d['sk']=Object.assign(d['sk']||{},{a:"Tučné",b:"Podčiarknuté",c:"Kurzíva",d:"Späť",e:"Znova",f:"Editor s formátovaním",g:"Editor s formátovaním, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sk']=Object.assign(d['sk']||{},{a:"Tučné",b:"Kurzíva",c:"Podčiarknuté",d:"Späť",e:"Znova",f:"Editor s formátovaním",g:"Editor s formátovaním, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

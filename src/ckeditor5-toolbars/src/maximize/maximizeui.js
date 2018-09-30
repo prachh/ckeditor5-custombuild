@@ -27,12 +27,22 @@ export default class MaximizeUI extends Plugin {
 
             // Callback executed once the maximize is clicked.
             view.on( 'execute', () => {
-			   console.log(editor);
-			   console.log(editor.sourceElement);
-			   console.log(editor.sourceElement.nextSibling);
-			   console.log(editor.sourceElement.nextSibling.classList);
-			   editor.sourceElement.nextSibling.classList.add("ABC");
-			   console.log(editor.sourceElement.nextSibling.classList);
+
+				if(editor.sourceElement.nextSibling.classList.contains("ckeditorfullsize"))
+				{
+					editor.sourceElement.nextSibling.classList.remove("ckeditorfullsize");
+					editor.sourceElement.nextSibling.style="";
+					editor.sourceElement.nextSibling.children[2].children[0].style="";
+				}
+				else
+				{
+					 editor.sourceElement.nextSibling.classList.add("ckeditorfullsize");
+					 var heightvalue = window.innerHeight - editor.sourceElement.nextSibling.children[1].offsetHeight - 2;
+					 var stylevalue= "height: " + heightvalue + "px;";
+					 var fullstyle="display: block; z-index: 999; position: absolute; left: 0px; top: 0px; width: 100%;"
+					 editor.sourceElement.nextSibling.style=fullstyle;
+					 editor.sourceElement.nextSibling.children[2].children[0].style=stylevalue;
+				}
             } );
 
 			return view;
