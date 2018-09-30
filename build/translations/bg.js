@@ -1,1 +1,1 @@
-(function(d){d['bg']=Object.assign(d['bg']||{},{a:"Удебелен",b:"Курсив",c:"Underline",d:"Undo",e:"Redo",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['bg']=Object.assign(d['bg']||{},{a:"Удебелен",b:"Underline",c:"Курсив",d:"Undo",e:"Redo",f:"Rich Text Editor",g:"Rich Text Editor, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
