@@ -22,7 +22,7 @@ export default class MaximizeUI extends Plugin {
 
 			
 		// Create Maximize command.
-		editor.commands.add( MAXIMIZE, new MaximizeCommand(editor,view) );
+		editor.commands.add( MAXIMIZE, new MaximizeCommand(this.editor,view) );
 
 		// Set the Ctrl+M keystroke.
 		editor.keystrokes.set( 'CTRL+M', MAXIMIZE );

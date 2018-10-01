@@ -1,1 +1,1 @@
-(function(d){d['sq']=Object.assign(d['sq']||{},{a:"Trash",b:"Pjerrtë",c:"Nënvizuar",d:"Maximize",e:"Rikthe",f:"Ribëje",g:"Redaktues i Tekstit të Pasur",h:"Redaktues i Tekstit të Pasur, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['sq']=Object.assign(d['sq']||{},{a:"Maximize",b:"Trash",c:"Pjerrtë",d:"Nënvizuar",e:"Rikthe",f:"Ribëje",g:"Redaktues i Tekstit të Pasur",h:"Redaktues i Tekstit të Pasur, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

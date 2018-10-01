@@ -1,1 +1,1 @@
-(function(d){d['kn']=Object.assign(d['kn']||{},{a:"‍‍ದಪ್ಪ",b:"‍ಇಟಾಲಿಕ್",c:"Underline",d:"Maximize",e:"‍‍ರದ್ದು",f:"‍ಮತ್ತೆ ಮಾಡು",g:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍‍",h:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['kn']=Object.assign(d['kn']||{},{a:"Maximize",b:"‍‍ದಪ್ಪ",c:"‍ಇಟಾಲಿಕ್",d:"Underline",e:"‍‍ರದ್ದು",f:"‍ಮತ್ತೆ ಮಾಡು",g:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍‍",h:"‍ಸಮೃದ್ಧ ಪಠ್ಯ ಸಂಪಾದಕ‍, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
