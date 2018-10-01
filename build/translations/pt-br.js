@@ -1,1 +1,1 @@
-(function(d){d['pt-br']=Object.assign(d['pt-br']||{},{a:"Negrito",b:"Itálico",c:"Sublinhado",d:"Desfazer",e:"Refazer",f:"Editor de Formatação",g:"Editor de Formatação, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
+(function(d){d['pt-br']=Object.assign(d['pt-br']||{},{a:"Maximize",b:"Negrito",c:"Itálico",d:"Sublinhado",e:"Desfazer",f:"Refazer",g:"Editor de Formatação",h:"Editor de Formatação, %0"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
