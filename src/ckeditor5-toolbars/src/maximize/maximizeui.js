@@ -17,11 +17,6 @@ export default class MaximizeUI extends Plugin {
 		const editor = this.editor;
 		const t = editor.t;
 
-		
-	
-
-		
-
 		editor.ui.componentFactory.add( MAXIMIZE, locale => {
 			const view = new ButtonView( locale );
 
@@ -32,7 +27,7 @@ export default class MaximizeUI extends Plugin {
 		// Set the Ctrl+M keystroke.
 		editor.keystrokes.set( 'CTRL+M', MAXIMIZE );
 
-		
+
 			const command = editor.commands.get( MAXIMIZE );
             	
             view.set( {
