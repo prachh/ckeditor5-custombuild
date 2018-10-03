@@ -13,6 +13,8 @@ import Italic from '@ckeditor/ckeditor5-basic-styles/src/italic';
 import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline';
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph';
 import Maximize from './ckeditor5-toolbars/src/maximize';
+import Resize from './ckeditor5-toolbars/src/resize'
+import Drive from './ckeditor5-toolbars/src/drive';
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
@@ -24,7 +26,9 @@ ClassicEditor.builtinPlugins = [
 	Italic,
 	Underline,
 	Paragraph,
-	Maximize
+	Maximize,
+	Resize,
+	Drive
 ];
 
 // Editor configuration.
@@ -34,7 +38,8 @@ ClassicEditor.defaultConfig = {
 			'bold',
 			'italic',
 			'underline',
-			'maximize'
+			'maximize',
+			'drive'
 		]
 	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
